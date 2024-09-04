@@ -7,7 +7,7 @@
     <title>Contact Page</title>
 </head>
 
-<body bgcolor="pink">
+<body bgcolor="yellow">
 
     <h1>This is the Contact page</h1>
     <a href="/about">About us</a>
